@@ -5,7 +5,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1>News Aggregator Chatbot</h1>
+      <h1>Look into my Eyes</h1>
       <h2>Stay Informed, Stay Ahead: Your Personalized Crypto News Companion</h2>
 
       <div className="info-content">
