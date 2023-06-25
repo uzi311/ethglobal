@@ -1,0 +1,51 @@
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #D1CFCF;
+}
+
+h1 {
+    font-size: 39px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+}
+  
+h2 {
+    font-size: 18px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    border-bottom: 1px solid black;
+    width: 800px;
+}
+
+.info-content {
+    column-count: 3; 
+    column-gap: 30px; 
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: "Times New Roman", Times, serif;
+}
+  
+h3.para-heading {
+    font-size: 16px;
+    font-weight: bold;
+    margin: 20px 0 10px;
+}
+  
+p.content {
+    font-size: 14px;
+    margin-bottom: 20px;
+    text-align: justify;
+}
+  
+  
+
+
+
+
